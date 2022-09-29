@@ -1,5 +1,5 @@
 # quick-npv
-Awesome repo for accessing vpn protocols, links. 
+Awesome repo for accessing n.p.v protocols, links. 
 
 
 # Linux
@@ -15,7 +15,7 @@ Awesome repo for accessing vpn protocols, links.
 
 
 # Extensions
-## Chroum
+## Chrome
 
 - SetupVPN
 
