@@ -35,4 +35,4 @@ Awesome repo for accessing n.p.v protocols, links.
 
 # Servers(Sep. 2022)
 
-- V2ray: [Github](https://github.com/Cenmrev/V2RayW)
+- V2ray: [gist](https://gist.github.com/moghadas76/adda859b741eef2c95a0efc53b9c88da#file-v2ray-gist)
