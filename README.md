@@ -29,6 +29,8 @@ Awesome repo for accessing n.p.v protocols, links.
 
 # Android
 
+- Shadowsocks:  [link](https://github.com/shadowsocks/shadowsocks-android/releases/download/v5.3.1-preview/shadowsocks-arm64-v8a-5.3.1-preview.apk)
+
 
 # IOS
 
